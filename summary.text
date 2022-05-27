@@ -1,31 +1,29 @@
+Autodidact, Team player, Curious, Problem-solving, Techi
 ____________________________________________________________________________
-Soft skills:
-Courtesy , Flexibility, Integrity, Teamwork, Work ethic, Initiative, Leadership and Independent.
-Love to learn new things every day. 
-____________________________________________________________________________
-Projects:
-DEKRA: enterpraise project + Digital tranformation + Integrations + act as Technical Architect
-AMEY: Service Cloud  + Field service Lightning + Intgrations + declarative and code
-Euromoney: Back-office + Intgrations 
-LVMH: SPA for Sales rep  + Intgrations with SAP
-LV: Survery app
-Petzl:B2B,B2C,Petzl.com
-____________________________________________________________________________
-
-Technical Consultant(Salesforce) section: 
-*Strong knowledge of Salesforce
+Technical Architect: 
+*Strong knowledge of Salesforce - 13Xcerts
 *Great communication skills
+*Working with multi interfaces as development teams, infrastructure, information security, communications, and more
 *Optimization: Understand platform limitations and design alternatives to work around limitations
 *Strong multi-tasker with the ability to work autonomously
-*Perform gap analysis of requirements, develop overall solution design and recommendations, conduct design review meetings and lead the technical design and architecture
-*Design, develop, test, document, and deploy high-quality business solutions on the Force.com platform, including writing triggers and developing VFP and LC
-*Help set technical standards and guidelines for Salesforce, and coach developers on reusability, best practices etc
+*Perform gap analysis of requirements, develop overall solution design and recommendations, conduct design review meetings, and lead the technical design and architecture
+*Design, develop, test, code review, document, and deploy high-quality business solutions on the Force.com platform, including writing core code and internal frameworks on Apex, LWC, LC.
+*Help set technical standards and guidelines for Salesforce, and coach developers on reusability, best practices, etc
 *Coach and mentor junior technical resources and own responsibility for ongoing technical development of technical resources on Salesforce projects.
 ____________________________________________________________________________
-Development section:
+Development:
 - Specialties:
-*OOP,Apex, Visualforce Page, Lightning components,Lightning Design System
-* JavaScript,Jquery,AngularJS,HTML5,CSS3(bootstrap)
-
+  *Apex ,JavaScript, LWS(JS framework), HTML5, CSS3
 -Knowledge:
-*Java,Node.js, NoSQL,SQL
+  *Node.js, NoSQL,SQL
+-More:
+Jira, Agile, Git, Lucidchart
+____________________________________________________________________________
+Projects:
+Colmobil as a TA: Automotive IND.  enterprise project + Digital transformation + Integrations 
+DEKRA as a TA: Enterpraise project + Digital transformation + Integrations +   Technical Architect
+AMEY as a Team Leader: Service Cloud  + Field service Lightning + Integrations + declarative and code
+Euromoney as a S.dev: Back-office + Intgrations 
+LVMH as an S.dev: SPA for Sales rep  + SAP Integrations 
+LV as a dev: Survey app with ChartJS
+Petzl as a dev:B2B,B2C sites
